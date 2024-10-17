@@ -3,6 +3,7 @@
 ## Week 01 GitHub Skills - Communicate using Markdown
 ### Add an Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 #### My H4 Header
 ##### My H5 Header
 ###### My H6 Header
