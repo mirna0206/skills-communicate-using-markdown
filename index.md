@@ -1,7 +1,8 @@
 # Welcome to My Project
 
 ## Week 01 GitHub Skills - Communicate using Markdown
-### My H3 Header
+### Add an Image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 #### My H4 Header
 ##### My H5 Header
 ###### My H6 Header
