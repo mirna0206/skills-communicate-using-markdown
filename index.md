@@ -16,7 +16,14 @@ var myVar = "Hello, world!";
 def greet():
     return "Hello, GitHub!"
 ```
-##### My H5 Header
+##### Make a task list
+- [x] Complete GitHub Markdown tutorial
+- [x] Add a code example
+- [x] Add a task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ###### My H6 Header
 
 
